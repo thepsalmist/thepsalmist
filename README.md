@@ -103,14 +103,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepsalmist&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ### ✍️ Writing
 
 I occasionally write about backend engineering, distributed systems, and production debugging.
