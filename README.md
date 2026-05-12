@@ -122,11 +122,8 @@ I occasionally write about backend engineering, distributed systems, and product
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://xavierodhiambo.com">
+  <a href="https://xodhiambo.com">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:xavierfrank4@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://dev.to/thepsalmist">
     <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
