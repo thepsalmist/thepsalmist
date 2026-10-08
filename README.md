@@ -20,17 +20,17 @@ Python backend systems, the platforms they run on, and the LLM features built on
 - Observability with OpenTelemetry, Grafana, Prometheus, Loki and Sentry, and the debugging that comes with it
 
 **AI Engineering** *(LLM systems, not model training)*
-- **Gated multi-stage RAG pipeline:** led an ad-quality and domain-trust classifier at Code for Africa where cheap automated signals run first and the LLM content-quality stage (LlamaIndex, pgvector) only sees inputs worth the cost
+- **Gated multi-stage RAG pipeline:** led an ad-quality and domain-trust classifier where cheap automated signals run first and the LLM content-quality stage (LlamaIndex, pgvector) only sees inputs worth the cost
 - **Self-hosted model platform:** designed and operated an Ollama and Open WebUI platform with per-team access control, used daily by editorial and research teams for material that could not go to outside providers
-- **LLM orchestration:** at Search Atlas, extended the reporting platform's orchestration layer with multi-provider routing, automatic failover and cost-aware model selection
-- **MCP:** exposed report-builder endpoints to the platform's MCP server at Search Atlas, and use MCP servers daily in an AI-assisted development workflow
+- **LLM orchestration:** extended the reporting platform's orchestration layer with multi-provider routing, automatic failover and cost-aware model selection
+- **MCP:** exposed service endpoints and their contracts to an MCP server, and connect MCP servers into a daily AI-assisted development workflow
 
 ---
 
 ### 💼 Experience
 
 - **Search Atlas** · Senior Software Engineer · 2025–2026 · Django/DRF/Celery services for an SEO analytics platform, email delivery monitoring, LLM orchestration
-- **Code for Africa** · Senior Software Engineer · 2022–2025 · [Mediacloud Story-Indexer](https://github.com/mediacloud/story-indexer), Wazimap-NG, Sensors.Africa, Open.Africa, internal AI platforms
+- **Code for Africa** · Senior Software Engineer · 2022–2025 · [Mediacloud Story-Indexer](https://github.com/mediacloud/story-indexer), Wazimap-NG, Sensors.Africa, openAFRICA
 - **QED Solutions** · Software Engineer · 2021–2022 · B2B procurement SaaS across African markets, AWS infrastructure, Terraform, ECS migration
 
 ---
