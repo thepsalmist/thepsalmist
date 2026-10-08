@@ -48,10 +48,9 @@ Python backend systems, the platforms they run on, and the LLM features built on
 
 Hands-on write-ups from real infrastructure work. More at [xodhiambo.com/blog](https://xodhiambo.com/blog) · [RSS](https://xodhiambo.com/blog/feed.xml)
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Add OpenTelemetry Tracing to Dokku Apps with Grafana Tempo and Alloy](https://xodhiambo.com/blog/dokku-opentelemetry-tempo-tracing/)
-- [How to Monitor Dokku Apps with Prometheus, Loki and Grafana (Ansible Setup)](https://xodhiambo.com/blog/dokku-monitoring-prometheus-loki-grafana/)
-- [How to Set Up Dokku on Ubuntu 24.04 with Ansible (Hardened, Re-runnable Bootstrap)](https://xodhiambo.com/blog/dokku-ubuntu-ansible-bootstrap/)
+<!-- BLOG-POST-LIST:START -->- [How to Add OpenTelemetry Tracing to Dokku Apps with Grafana Tempo and Alloy](https://xodhiambo.com/blog/dokku-opentelemetry-tempo-tracing/)
+- [How to Monitor Dokku Apps with Prometheus, Loki and Grafana &lpar;Ansible Setup&rpar;](https://xodhiambo.com/blog/dokku-monitoring-prometheus-loki-grafana/)
+- [How to Set Up Dokku on Ubuntu 24.04 with Ansible &lpar;Hardened, Re-runnable Bootstrap&rpar;](https://xodhiambo.com/blog/dokku-ubuntu-ansible-bootstrap/)
 - [How to Benchmark a New Elasticsearch Cluster](https://xodhiambo.com/blog/benchmark-new-elasticsearch-cluster/)
 - [Elasticsearch query_string vs terms Filter: How to Find and Fix a Slow Collection Filter](https://xodhiambo.com/blog/elasticsearch-query-string-vs-terms-filter-benchmark/)
 - [NordVPN on MikroTik with IKEv2: A Complete RouterOS 6.49 Setup Guide](https://xodhiambo.com/blog/nordvpn-mikrotik-ikev2-setup/)
