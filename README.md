@@ -48,12 +48,12 @@ Python backend systems, the platforms they run on, and the LLM features built on
 
 Hands-on write-ups from real infrastructure work. More at [xodhiambo.com/blog](https://xodhiambo.com/blog) · [RSS](https://xodhiambo.com/blog/feed.xml)
 
-<!-- BLOG-POST-LIST:START -->- [Kandili: Kenya Power Planned Outage Alerts for Your Estate](https://xodhiambo.com/blog/kandili-kenya-power-outage-alerts/)
+<!-- BLOG-POST-LIST:START -->- [How to Use Procrastinate with Django and FastAPI: Postgres Task Queue from Setup to Monitoring](https://xodhiambo.com/blog/procrastinate-django-fastapi-transactions/)
+- [Kandili: Kenya Power Planned Outage Alerts for Your Estate](https://xodhiambo.com/blog/kandili-kenya-power-outage-alerts/)
 - [Out of GitHub Actions Minutes? How to Move CI to a Self-Hosted Runner Without Slowing It Down](https://xodhiambo.com/blog/github-actions-self-hosted-runner-cache/)
 - [How to Add OpenTelemetry Tracing to Dokku Apps with Grafana Tempo and Alloy](https://xodhiambo.com/blog/dokku-opentelemetry-tempo-tracing/)
 - [How to Monitor Dokku Apps with Prometheus, Loki and Grafana &lpar;Ansible Setup&rpar;](https://xodhiambo.com/blog/dokku-monitoring-prometheus-loki-grafana/)
 - [How to Set Up Dokku on Ubuntu 24.04 with Ansible &lpar;Hardened, Re-runnable Bootstrap&rpar;](https://xodhiambo.com/blog/dokku-ubuntu-ansible-bootstrap/)
-- [How to Benchmark a New Elasticsearch Cluster](https://xodhiambo.com/blog/benchmark-new-elasticsearch-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
